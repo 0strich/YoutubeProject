@@ -1,0 +1,21 @@
+.Signup-input-one input {
+    width: 400px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.Signup-input-two input {
+    width: 195px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.Signup-button {
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: skyblue;
+}
