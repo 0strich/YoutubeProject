@@ -20,7 +20,7 @@ app.use(bodyparser.urlencoded({extended: false}))
 app.use(
   cors({
     origin: [
-      'http://shortly-sprint.s3-website.ap-northeast-2.amazonaws.com',
+      'http://my-youtube-app.s3-website.ap-northeast-2.amazonaws.com',
       'http://localhost:3000'],
     methods: ['GET', 'POST'],
     credentials: true
